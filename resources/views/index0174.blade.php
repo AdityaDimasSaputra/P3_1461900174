@@ -4,7 +4,7 @@
 <title>1461900174</title>
 </head>
 <body>
-<center><h10>DATA USER PASIEN</h10></center>
+<center><h3>DATA USER PASIEN</h3></center>
 <center><p>Cari :</p></center>
 <center><form action="/pasien/cari" method="GET"></center>
 <center><input type="text" name="lihat" placeholder="Cari Pasien .." value="{{ old('cari') }}"><center>
